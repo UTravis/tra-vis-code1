@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tra-vis-code1
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently Web 3 development
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me ucheemeka666.ue@gmail.com
 
