@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tra-vis-code1
-- 🌱 I’m currently Web 3 development
-- 💞️ I’m looking to collaborate on any web development project
+- 🌱 Web3 developer with a passion for blockchain and decentralized technology
+- 💻 Skilled in Solidity, Javascript and ethers.js
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ucheemeka666.ue@gmail.com
 
 <!---
